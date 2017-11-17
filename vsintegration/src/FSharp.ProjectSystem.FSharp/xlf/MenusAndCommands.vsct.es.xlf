@@ -14,17 +14,17 @@
       </trans-unit>
       <trans-unit id="FSharpAddBelowMenu|ButtonText">
         <source>Add &amp;Below</source>
-        <target state="new">Add &amp;Below</target>
+        <target state="new">Spanish for Add &amp;Below</target>
         <note />
       </trans-unit>
       <trans-unit id="FSharpAddBelowMenu|MenuText">
         <source>Add &amp;Below</source>
-        <target state="new">Add &amp;Below</target>
+        <target state="new">Spanish for Add &amp;Below</target>
         <note />
       </trans-unit>
       <trans-unit id="FSharpAddBelowMenu|CommandName">
         <source>Add &amp;Below</source>
-        <target state="new">Add &amp;Below</target>
+        <target state="new">Spanish for Add &amp;Below</target>
         <note />
       </trans-unit>
       <trans-unit id="FSharpAddAboveMenu|ButtonText">

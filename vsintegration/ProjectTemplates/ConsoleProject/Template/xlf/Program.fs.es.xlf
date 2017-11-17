@@ -14,7 +14,7 @@
       </trans-unit>
       <trans-unit id="Return">
         <source>return an integer exit code</source>
-        <target state="new">return an integer exit code</target>
+        <target state="new">spanish for, return an integer exit code</target>
         <note />
       </trans-unit>
     </body>
